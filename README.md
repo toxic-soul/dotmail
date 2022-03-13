@@ -26,7 +26,9 @@ SIMPLE DOT MAIL GENERATOR WITH PHP.
 <p align="center">
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: akxvau@gmail.com">Send Email</a><br><br>
 </p><br>
-
+````
+[❗] DON'T COPY THIS TOOL
+````
 
 # Install
 
