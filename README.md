@@ -62,7 +62,7 @@ php mail.php
 
 # Oneclick Install
 ````
-pkg up -y; pkg i php -y; git clone https://github.com/toxic-soul/dotmail; cd speedtest; php mail.php
+pkg up -y; pkg i php -y; git clone https://github.com/toxic-soul/dotmail; cd dotmail; php mail.php
 ````
 
 
